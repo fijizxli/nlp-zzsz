@@ -1,3 +1,4 @@
 pandas
-request
-BeautifulSoup
+beautifulsoup4
+openpyxl
+requests
